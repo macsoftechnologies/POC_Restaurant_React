@@ -30,7 +30,7 @@ const onSearch = (value) => {
   return (
     <div className="App body">
       <div>
-        <h1>Test Project</h1>
+        <h1>Project X</h1>
      {/* <input className='input' type='text' value={inputEl} onChange={getInputHandler}/> */}
      <Search
         size="medium"
