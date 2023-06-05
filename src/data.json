@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG90ZWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "hotels",
+        "name": "Novotel",
+        "rating": 3.7,
+        "address": "Varun Beach, Visakhapatnam",
+        "contactInfo":"9849444486"
+    },
+    {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+        "category": "hotels",
+        "name": "Port Hotel",
+        "rating": 4.0,
+        "address": "VIP Road, Visakhapatnam",
+        "contactInfo":"933346486"
+    },
+    {
+        "id": 3,
+        "image": "https://images7.alphacoders.com/362/362619.jpg",
+        "category": "hotels",
+        "name": "Ambicaa Sea Green",
+        "rating": 3.0,
+        "address": "Dairyfarm, Visakhapatnam",
+        "contactInfo":"7777646486"
+    },
+    {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+        "category": "hotels",
+        "name": "Hotel Winsar Park",
+        "rating": 3.7,
+        "address": "Seeripuram, Visakhapatnam",
+        "contactInfo":"9849777786"
+    },
+    
+   
+    {
+        "id": 1,
+        "image": "https://www.usatoday.com/gcdn/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg",
+        "category": "restaurants",
+        "name": "Sam's Gridle",
+        "rating": 3.7,
+        "address": "MVP, Visakhapatnam",
+        "contactInfo":"9877646486"
+    },
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1534004471323-19f1a470c4c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+        "category": "restaurants",
+        "name": "Flying Spaghetti Monster",
+        "rating": 4.0,
+        "address": "Maddilapalem, Visakhapatnam",
+        "contactInfo":"7749646486"
+    },
+    {
+        "id": 1,
+        "image": "https://images.pexels.com/photos/1337715/pexels-photo-1337715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "restaurants",
+        "name": "Ethnic Restaurant",
+        "rating": 4.5,
+        "address": "Dabagardens, Visakhapatnam",
+        "contactInfo":"9849646477"
+    },
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+        "category": "restaurants",
+        "name": "Cascades",
+        "rating": 3.6,
+        "address": "Seethamdara, Visakhapatnam",
+        "contactInfo":"9842346486"
+    },
+    
+    
+      
+   
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1624708733684-da7cd4f90982?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
+        "category": "visiting places",
+        "name": "Tenniti Park",
+        "rating":  4.5,
+        "address": "Varun Beach, Visakhapatnam",
+        "contactInfo":"9849646486"
+    },
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1584706368162-73c7dab84d68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+        "category": "visiting places",
+        "name": "ZOO",
+        "rating":  4.3,
+        "address": "Varun Beach, Visakhapatnam",
+        "contactInfo":"9849776486"
+    },
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1676730815247-af64398e4d6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+        "category": "visiting places",
+        "name": "VMRDA Park",
+        "rating":  5.0,
+        "address": "Varun Beach, Visakhapatnam",
+        "contactInfo":"9849996486"
+    },
+    {
+        "id": 1,
+        "image": "https://t3.ftcdn.net/jpg/01/23/78/68/240_F_123786844_UtBlZaqPzjo4zMETx6hrunCOTRuXveMG.jpg",
+        "category": "visiting places",
+        "name": "Kailasagiri",
+        "rating":  4.7,
+        "address": "Varun Beach, Visakhapatnam",
+        "contactInfo":"9849216486"
+    }
+    
+   
+    
+    
+]
