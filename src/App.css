@@ -67,6 +67,67 @@ min-width: 100px;
 .detailContainer p{
   margin: 0;
 }
+.search{
+
+    width: 800px;
+    padding-bottom: 30px;
+    padding-top: 5px;
+}
+
+
+@media only screen and (min-width:360px) and (max-width:468px){
+
+  .search {
+    width: 330px;
+    padding-bottom: 16px;
+    padding-top: 5px;
+}
+.li{
+  width: 340px;
+}
+h4{
+  font-size: 15px;
+}
+.address{
+  font-size: 15px;
+}
+.App{
+
+  padding-top: 20px;
+}
+h1{
+  font-size: 2rem;
+}
+
+}
+
+@media only screen and (min-width:468px) and (max-width:749px){
+
+
+  .search {
+    width: 400px;
+    padding-bottom: 16px;
+    padding-top: 5px;
+}
+.li{
+  width: 390px;
+}
+
+.App{
+
+  padding-top: 20px;
+}
+h1{
+  font-size: 2rem;
+}
+
+
+
+
+
+}
+
+
 
 
 @media (prefers-reduced-motion: no-preference) {

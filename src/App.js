@@ -17,7 +17,7 @@ const onSearch = (value) => {
   
   console.log(value,"valueeeee")
   if(value !== ''){
-        const filterData = data.filter((item)=>filtercategories.indexOf(item.category.toLowerCase())!= -1)
+        const filterData = data.filter((item)=>filtercategories.indexOf(item.category.toLowerCase())!== -1)
          //item.category.toLowerCase().includes(value.toLowerCase())||item.name.toLowerCase().includes(value.toLowerCase()))
         console.log(filterData);
          setFetchEl(filterData);
@@ -43,21 +43,21 @@ const onSearch = (value) => {
         size="medium"
         placeholder="Type to search"
         allowClear
-        style={{ width: 800, paddingBottom: 30, paddingTop: 5 }}
+        className='search'
+        // style={{ width: 800, paddingBottom: 30, paddingTop: 5 }}
         onSearch={onSearch}
-       
-        
+ 
       />
     <div className='container'>
       <div className='row rowStyle'>
         
-    <div className='col-md-12'><ul className='ul'>{fetchEl.map((el)=>{
+    <div className='col-md-12 p-0'><ul className='ul'>{fetchEl.map((el)=>{
       return(<li className='li' key={el.id}>
         <img src={el.image} alt='Image could not loaded'/>
         <div className='detailContainer'>
         <h4>{el.name}</h4>
         <p className='fontSpace'>{el.contactInfo}</p>
-        <p>{el.address}</p>
+        <p className='address'>{el.address}</p>
         <p>{el.rating}<StarFilled style={{color:'#ffb000'}} /></p>
         </div>
         
